@@ -1,0 +1,20 @@
+{
+    "name": "cenotesolutions/laravel-database-extensions",
+    "description": "Add-ons and extensions to illuminate/database package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CenoteSolutions\\LaravelDatabaseExtensions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cenote Solutions"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/database": ">=5.7"
+    }
+}
