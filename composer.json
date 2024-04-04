@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "CenoteSolutions\\LaravelDatabaseExtensions\\": "src/"
+            "CenoteSolutions\\LaravelDatabase\\": "src/"
         }
     },
     "authors": [
